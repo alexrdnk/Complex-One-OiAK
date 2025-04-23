@@ -1,0 +1,7 @@
+Representation,Operation,Time
+ComplexClassic,add,0.008215199995902367
+ComplexClassic,mul,0.009699299989733845
+ComplexRadix2j,add,0.7307093999988865
+ComplexRadix2j,mul,0.9043829000002006
+ComplexRadixJm1,add,1.0146402999962447
+ComplexRadixJm1,mul,1.2251037999958498
